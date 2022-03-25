@@ -2,3 +2,4 @@ different line 1
 different line 2
 next line 3
 next line 4
+someone else's PR merge
